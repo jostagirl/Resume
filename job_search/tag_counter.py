@@ -1,40 +1,55 @@
 import re
+import csv
 from collections import Counter
+from datetime import datetime
+import os
 
-# Path to your Master Resume
-file_path = r"C:\Users\Anna\Documents\job-search-repo\resumes\Master_Resume.md"
+# File paths
+md_file_path = r"C:\Users\Anna\Documents\job-search-repo\resumes\Master_Resume.md"
+csv_file_path = r"C:\Users\Anna\Documents\job-search-repo\job_search\tag_counts.csv"
 
-# Regular expression to match hashtags
-tag_pattern = r"#\w[\w-]*"
+# Get current timestamp
+timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-# Read the file and extract tags
-with open(file_path, "r", encoding="utf-8") as f:
+# Read Markdown file and extract tags
+with open(md_file_path, "r", encoding="utf-8") as f:
     content = f.read()
 
-tags = re.findall(tag_pattern, content)
-
-# Remove leading '#' from each tag
-tags_clean = [tag[1:] for tag in tags]
-
-# Count occurrences of each unique tag
-tag_counts = Counter(tags_clean)
+# Regex to find tags (#TagName)
+tags = re.findall(r"#(\w+)", content)
+tag_counts = Counter(tags)
 
 # Sort tags alphabetically
-sorted_tags = sorted(tag_counts.items())
+sorted_tags = dict(sorted(tag_counts.items()))
 
-# Output results
-print("Unique tag counts in Master_Resume.md (alphabetical):")
-for tag, count in sorted_tags:
-    print(f"{tag}: {count}")
+# Load previous run if CSV exists
+previous_counts = {}
+if os.path.exists(csv_file_path):
+    with open(csv_file_path, "r", newline="", encoding="utf-8") as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            previous_counts[row["Tag"]] = int(row["Count"])
 
-# Total number of unique tags
-unique_tag_count = len(tag_counts)
-print(f"\nTotal number of unique tags: {unique_tag_count}")
+# Print current counts and diffs
+print(f"\nTag counts for {timestamp}:\n")
+for tag, count in sorted_tags.items():
+    prev = previous_counts.get(tag, 0)
+    diff = count - prev
+    diff_str = f" (Δ {diff:+})" if prev != 0 else ""
+    print(f"{tag}: {count}{diff_str}")
 
-# Optional: write to a file for record-keeping
-output_file = r"C:\Users\Anna\Documents\job-search-repo\job_search\unique_tag_counts.txt"
-with open(output_file, "w", encoding="utf-8") as f:
-    f.write("Unique tag counts in Master_Resume.md (alphabetical):\n")
-    for tag, count in sorted_tags:
-        f.write(f"{tag}: {count}\n")
-    f.write(f"\nTotal number of unique tags: {unique_tag_count}\n")
+total_unique_tags = len(sorted_tags)
+print(f"\nTotal unique tags: {total_unique_tags}")
+
+# Append current counts to CSV
+file_exists = os.path.exists(csv_file_path)
+with open(csv_file_path, "a", newline="", encoding="utf-8") as csvfile:
+    fieldnames = ["Timestamp", "Tag", "Count"]
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+    # Write header only if file didn't exist
+    if not file_exists:
+        writer.writeheader()
+
+    for tag, count in sorted_tags.items():
+        writer.writerow({"Timestamp": timestamp, "Tag": tag, "Count": count})

@@ -99,7 +99,7 @@ Generate a concise 2–3 sentence paragraph summarizing:
 - Developed and managed data acquisition and hosting solutions, demonstrating technical proficiency.  #DataAcquisition #DataHosting #TechnicalProficiency
 - Provided technical support, problem-solving, and customer service across multiple systems.  #TechnicalSupport #ProblemSolving #CustomerSupport
 - Contributed to IT systems design and internal network infrastructure management.  #ITSystems #Networking
-- Delivered desktop support and system administration, ensuring reliability of data services.  #DesktopSupport #SystemAdministration
+- Delivered desktop support and system administration, ensuring reliability of data services.  #DesktopSupport #SystemAdministration #CustomerSupport
 - Enhanced collaborative processes and communication between teams for operational efficiency.  #Collaboration #ProcessImprovement
 
 ---
@@ -112,7 +112,7 @@ Generate a concise 2–3 sentence paragraph summarizing:
 
 ### Mechatronics Certification | Sierra College | 2017
 - Focus: Mechatronics, Robotics, and Automation Engineering  #Mechatronics #Robotics #Automation
-- Skills: Critical Thinking, System Configuration, Project Planning, Communication  #CriticalThinking #SystemConfiguration #ProjectPlanning #Communication
+- Skills: Critical Thinking, System Configuration, Project Planning, Communication  #CriticalThinking #SystemConfiguration #ProjectPlanning #Communication #Journalism
 
 ### Electro-Mechanical Skills Certification | Sierra College | 2012
 - Completed coursework for the Electro-Mechanical Skills Certificate  #ElectroMechanical #TechnicalTraining
