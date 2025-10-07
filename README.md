@@ -6,7 +6,7 @@ This repository is a personal hub for managing all my professional career materi
 
 ## Repository Structure
 
-```text
+<pre> ```text
 career-docs/
 ├── README.md                 ← This file
 ├── resumes/                  ← Master and tailored resumes
@@ -20,7 +20,7 @@ career-docs/
 │   ├── tracker.md
 │   └── resources.md
 └── assets/                   ← Optional images or logos
-
+``` </pre>
 
 ---
 
