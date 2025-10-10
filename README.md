@@ -8,18 +8,23 @@ This repository is a personal hub for managing all my professional career materi
 
 <pre>
 career-docs/
-├── README.md                 ← This file
-├── resumes/                  ← Master and tailored resumes
-│   ├── Master_Resume.md      ← Comprehensive source of truth resume
+├── README.md                      ← Top-level repo overview
+├── resumes/                        ← Master and tailored resumes
+│   ├── Master_Resume.md            ← Comprehensive source-of-truth resume
 │   ├── Resume_<Company>_<JobID>.md ← Tailored resume for specific job
-│   └── Archive/              ← Older resume versions
-├── cover_letters/            ← Templates and tailored letters
+│   └── Archive/                    ← Older resume versions
+├── cover_letters/                  ← Templates and tailored letters
 │   ├── Template_CoverLetter.md
 │   ├── CoverLetter_<Company>_<JobID>.md
-├── job_search/               ← Application tracker and notes
-│   ├── tracker.md
-│   └── resources.md
-└── assets/                   ← Optional images or logos
+├── job_search/                     ← Application tracker, job titles, and tag tracking
+│   ├── README.md                   ← Folder-level README
+│   ├── tracker.md                  ← Job search tracking notes
+│   ├── job_titles_master.md        ← Master Markdown list of job titles
+│   ├── job_titles_master.csv       ← Generated CSV from Markdown
+│   ├── md_to_csv.py                ← Script to generate CSV from Markdown
+│   ├── tag_counter.py              ← Script to count tags in master resume
+│   └── tag_counts.csv              ← Output of tag_counter.py
+└── assets/                         ← Optional images, logos, or other resources
 </pre>
 
 ---
