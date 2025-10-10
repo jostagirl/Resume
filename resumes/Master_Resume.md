@@ -119,7 +119,7 @@ Generate a concise 2–3 sentence paragraph summarizing:
 - Skills: Critical Thinking, System Configuration, Project Planning, Communication  #CriticalThinking #SystemConfiguration #ProjectPlanning #Communication
 
 ### Bachelor of Arts (BA), Journalism | Hawaii Pacific University | 2003
-- Editor and feature writer, layout design for university newspaper  #Journalism #Editing #Writing
+- Editor and feature writer, layout design for university newspaper  #Journalism #Writing
 - Focus: Photo and broadcast journalism  #PhotoJournalism #Broadcast
 - Skills: Critical Thinking, Written Communication, Organization, Presentations  #CriticalThinking #Writing #Organization #Presentations
 
@@ -134,9 +134,9 @@ Generate a concise 2–3 sentence paragraph summarizing:
 ## Projects
 
 ### System Recovery and Upgrade Initiative | High Sierra Electronics, Inc. | Apr 2024 – Mar 2025
-- Played a pivotal role in system recovery and upgrade for 400+ Low Water Crossing (LWC) sites.  #SystemRecovery #ProjectManagement
+- Played a pivotal role in system recovery and upgrade for 400+ Low Water Crossing (LWC) sites.  #SystemRecovery #ProjectManagement #Communication
 - Analyzed system performance, conducted database cleanup, and developed data-driven recommendations for repair priorities.  #DataAnalysis #DatabaseCleanup
-- Presented insights weekly to management and field teams, contributing to operational improvements.  #Reporting #StakeholderCommunication
+- Presented insights weekly to management and field teams, contributing to operational improvements.  #Reporting #StakeholderCommunication #Jellybeans
 - Planned and coordinated ALERT to ALERT2 hardware upgrade for ~45 sites, including RF spectrum analysis and frequency migration strategies.  #HardwareUpgrade #RFAnalysis
 - Created field upgrade procedures and managed updates to RF and internet network infrastructure (repeaters, base stations).  #Procedures #NetworkManagement
 - Skills: Python, Systems Analysis, Data Analysis, Strategic Thinking, Project Coordination and Management  #Python #SystemsAnalysis #StrategicThinking

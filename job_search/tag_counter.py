@@ -30,16 +30,45 @@ if os.path.exists(csv_file_path):
         for row in reader:
             previous_counts[row["Tag"]] = int(row["Count"])
 
-# Print current counts and diffs
-print(f"\nTag counts for {timestamp}:\n")
+# 1️⃣ Print all tags and counts
+print(f"\nTag counts for {timestamp} (all tags):\n")
 for tag, count in sorted_tags.items():
-    prev = previous_counts.get(tag, 0)
-    diff = count - prev
-    diff_str = f" (Δ {diff:+})" if prev != 0 else ""
-    print(f"{tag}: {count}{diff_str}")
+    print(f"{tag}: {count}")
 
 total_unique_tags = len(sorted_tags)
 print(f"\nTotal unique tags: {total_unique_tags}")
+
+# 2️⃣ Print only changed tags with delta
+changed_tags = {tag: (count - previous_counts.get(tag, 0)) 
+                for tag, count in sorted_tags.items() 
+                if count != previous_counts.get(tag, 0)}
+
+if changed_tags:
+    print("\nTags changed since last run:\n")
+    for tag, delta in sorted(changed_tags.items()):
+        print(f"{tag}: Δ {delta:+}")
+else:
+    print("\nNo tag changes since last run.")
+
+# 3️⃣ Print tags added or removed entirely
+previous_tags_set = set(previous_counts.keys())
+current_tags_set = set(sorted_tags.keys())
+
+added_tags = current_tags_set - previous_tags_set
+removed_tags = previous_tags_set - current_tags_set
+
+if added_tags or removed_tags:
+    print("\nTags added or removed since last run:\n")
+    if added_tags:
+        print("Added tags:")
+        for tag in sorted(added_tags):
+            print(f" + {tag}")
+    if removed_tags:
+        print("Removed tags:")
+        for tag in sorted(removed_tags):
+            print(f" - {tag}")
+else:
+    print("\nNo tags added or removed since last run.")
 
 # Append current counts to CSV
 file_exists = os.path.exists(csv_file_path)
