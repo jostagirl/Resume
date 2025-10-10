@@ -20,18 +20,27 @@ Generate a concise 2–3 sentence paragraph summarizing:
 
 ### Core Expertise
 - Embedded systems and IoT/sensor networks  #IoT #Embedded
-- Hardware/software integration and data flow management  #Integration #DataFlow
+- Hardware/software integration and data flow management  #Integration #DataFlow #DevOps
 - ERP transitions and system-level process design  #ERP #ProcessDesign
-- Bench testing, validation, and deployment troubleshooting  #BenchTesting #Validation
-- AI integration for predictive maintenance and workflow optimization  #AI #PredictiveMaintenance
+- Bench testing, validation, and deployment troubleshooting  #BenchTesting #Validation #DevOps
+- AI integration for predictive maintenance and workflow optimization  #AI #PredictiveMaintenance #DevOps
 - Technical documentation and workflow automation  #Documentation #WorkflowAutomation
+- End-to-end system integration and validation for hardware and software deployments #DevOps #Integration #SystemValidation
+- Automation of repetitive workflows and operational processes #DevOps #WorkflowAutomation #Efficiency
+- Cross-functional collaboration bridging engineering, operations, and technical support #DevOps #CrossTeam #Collaboration
+- Infrastructure and platform monitoring, troubleshooting, and optimization #DevOps #Monitoring #Optimization
+- Maintaining reproducible technical procedures and documentation for deployment and testing #DevOps #Documentation #Standardization #TechnicalWriting
 
 ### Problem-Solving Strengths
-- Solving complex cross-team technical challenges  #CrossTeam #ProblemSolving
-- Streamlining field-to-cloud workflows  #FieldToCloud #Optimization
+- Solving complex cross-team technical challenges  #CrossTeam #ProblemSolving #Collaboration #DevOps
+- Streamlining field-to-cloud workflows  #FieldToCloud #Optimization #DevOps #WorkflowOptimization #SystemEfficiency
 - Designing and implementing process improvements  #ProcessImprovement
-- Translating customer requirements into actionable technical solutions  #CustomerSolutions
+- Translating customer requirements into actionable technical solutions  #CustomerSupport
 - Providing clarity and follow-through in multi-stakeholder projects  #ProjectManagement #FollowThrough
+- Rapid diagnosis and resolution of software, hardware, and network issues #DevOps #Troubleshooting #ProblemSolving
+- Translating complex technical problems into actionable operational steps #DevOps #ProblemSolving #OperationalExecution
+- Self-directed learning and adoption of new tools, platforms, and automation techniques #DevOps #Adaptability #TechnicalLearning
+- Identifying inefficiencies and implementing process improvements to increase system reliability #DevOps #ProcessImprovement #Reliability
 
 ### Career Focus / Target Roles
 - Technical implementation leadership  #Leadership #TechnicalImplementation
@@ -39,22 +48,28 @@ Generate a concise 2–3 sentence paragraph summarizing:
 - Hands-on engineering with strategic impact  #Engineering #StrategicImpact
 - Roles leveraging AI or automation to improve efficiency  #AI #Automation
 - Positions requiring system-level thinking and cross-department collaboration  #SystemThinking #Collaboration
-
+- DevOps Engineer (Associate / Junior / Automation focus)
+- Infrastructure or Platform Operations Engineer
+- Systems Integration / Validation Engineer
+- Site Reliability Engineer (SRE) – Entry-level
+- Cloud Operations / Cloud Support Engineer
 ---
 
 ## Core Skills & Keywords
 
 ### Technical Skills
-- IoT, Hardware bench testing, Data integration, Python, Google Colab, MySQL, AutoCAD  #IoT #Python #DataIntegration #AutoCAD
+- IoT, Hardware bench testing, Data integration, Python, Google Colab, MySQL  #DevOps #IoT #Python #DataIntegration
 
 ### AI / Data Analysis
 - Prompt engineering, anomaly detection, predictive maintenance, support automation  #AI #PredictiveMaintenance #AnomalyDetection #Automation
 
 ### Soft Skills
-- Customer support, technical documentation, cross-team collaboration, leadership  #SoftSkills #CustomerSupport #Documentation #Collaboration #Leadership
+- Customer support, technical documentation, cross-team collaboration, leadership #SoftSkills #CustomerSupport #Documentation #Collaboration #Leadership
+- rapid adaptation to new tools, platforms and processes #DevOps #LearningAgility #Adaptability
+- clear communication of technical procedures and operational steps. #DevOps #Communication #ProcessClarity
 
 ### Keywords for ATS
-- IoT, Mechatronics, System Validation, Troubleshooting, Technical Implementation, Predictive Maintenance  #ATS #IoT #Mechatronics #SystemValidation #Troubleshooting #TechnicalImplementation #PredictiveMaintenance
+- IoT, System Validation, Troubleshooting, Technical Implementation, Predictive Maintenance, Automation #DevOps #ATS #IoT #SystemValidation #Troubleshooting #TechnicalImplementation #PredictiveMaintenance #Automation
 
 ---
 
@@ -119,9 +134,9 @@ Generate a concise 2–3 sentence paragraph summarizing:
 - Skills: Critical Thinking, System Configuration, Project Planning, Communication  #CriticalThinking #SystemConfiguration #ProjectPlanning #Communication
 
 ### Bachelor of Arts (BA), Journalism | Hawaii Pacific University | 2003
-- Editor and feature writer, layout design for university newspaper  #Journalism #Writing
+- Editor and feature writer, layout design for university newspaper  #Journalism #Writing #Documentation
 - Focus: Photo and broadcast journalism  #PhotoJournalism #Broadcast
-- Skills: Critical Thinking, Written Communication, Organization, Presentations  #CriticalThinking #Writing #Organization #Presentations
+- Skills: Critical Thinking, Written Communication, Organization, Presentations  #CriticalThinking #Writing #Organization #Presentations #Documentation
 
 ---
 
@@ -132,6 +147,13 @@ Generate a concise 2–3 sentence paragraph summarizing:
 ---
 
 ## Projects
+
+### Advanced Environmental Monitoring (AEM) | AI Council Member | 2025 – Present
+
+- Participate in AEM’s AI Council to equip employees with confidence in using generative AI tools safely and effectively. #AI #GenAI #Training
+- Identify high-impact AI use cases to improve processes, workflow efficiency, and team productivity. #ProcessImprovement #OperationalEfficiency
+- Developed and presented AI 101 workshop, providing foundational knowledge on available tools, practical applications, and guidance on usage. #KnowledgeSharing
+- Contribute to a shared AI playbook to ensure consistent, responsible, and effective use of AI across the organization. #Documentation #ProcessStandardization
 
 ### System Recovery and Upgrade Initiative | High Sierra Electronics, Inc. | Apr 2024 – Mar 2025
 - Played a pivotal role in system recovery and upgrade for 400+ Low Water Crossing (LWC) sites.  #SystemRecovery #ProjectManagement #Communication
