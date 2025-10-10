@@ -136,9 +136,9 @@ Generate a concise 2–3 sentence paragraph summarizing:
 ### System Recovery and Upgrade Initiative | High Sierra Electronics, Inc. | Apr 2024 – Mar 2025
 - Played a pivotal role in system recovery and upgrade for 400+ Low Water Crossing (LWC) sites.  #SystemRecovery #ProjectManagement #Communication
 - Analyzed system performance, conducted database cleanup, and developed data-driven recommendations for repair priorities.  #DataAnalysis #DatabaseCleanup
-- Presented insights weekly to management and field teams, contributing to operational improvements.  #Reporting #StakeholderCommunication #Jellybeans
+- Presented insights weekly to management and field teams, contributing to operational improvements.  #Reporting #StakeholderCommunication
 - Planned and coordinated ALERT to ALERT2 hardware upgrade for ~45 sites, including RF spectrum analysis and frequency migration strategies.  #HardwareUpgrade #RFAnalysis
-- Created field upgrade procedures and managed updates to RF and internet network infrastructure (repeaters, base stations).  #Procedures #NetworkManagement
+- Created field upgrade procedures and managed updates to RF and internet network infrastructure (repeaters, base stations).  #Procedures #ProcessDefinition #NetworkManagement
 - Skills: Python, Systems Analysis, Data Analysis, Strategic Thinking, Project Coordination and Management  #Python #SystemsAnalysis #StrategicThinking
 
 ### Hardware Refresh: Camera Integration Project | High Sierra Electronics, Inc. | Jun 2023 – Aug 2023
