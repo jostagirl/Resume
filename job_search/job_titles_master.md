@@ -12,11 +12,15 @@
 ## DevOps & Automation Path
 - Associate DevOps Engineer
 - Junior DevOps Engineer
+- DevOps Support Engineer
 - Automation Engineer
 - Build & Release Engineer
 - Platform Operations Engineer
+- Platform Engineer
+- Associate Platform Engineer
 - Site Reliability Engineer (SRE) – Associate / Entry-Level
 - Infrastructure Support Engineer
+- Infrastructure Automation SPecialist
 
 ## IoT / Systems Hybrid
 - IoT Systems Engineer

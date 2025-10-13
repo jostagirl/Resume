@@ -1,0 +1,74 @@
+DevOps Engineer
+Apply
+locations
+United States of America
+time type
+Full time
+posted on
+Posted 3 Days Ago
+job requisition id
+JR0026566
+It takes powerful technology to connect our brands and partners with an audience of hundreds of millions of people. Whether you’re looking to write mobile app code, engineer the servers behind our massive ad tech stacks, or develop algorithms to help us process trillions of data points a day, what you do here will have a huge impact on our business—and the world.
+A Little About Us 
+The Central Data Platform team builds industry leading next generation cloud platforms, services and 
+tools that underpin our products. We build and maintain systems at scale and ensure that 
+Yahoo is always able to process petabytes of data and billions of events daily. Using a 
+combination of open source software and internal tools across multiple cloud providers, we 
+engineer platform solutions for data collection, stream processing, batch-processing, data 
+querying, data governance, and data lineage. We promote and enable developer 
+self-sufficiency and DevOps ownership models.  
+
+A Lot About You 
+We're looking for world-class, fun-loving engineers to join our team in Champaign, Illinois, 
+where you will have the opportunity to help develop scalable, high-speed data solutions for 
+data collection and low-latency platforms. You will analyze requirements; investigate optimal 
+software solutions; architect, design, implement and test those solutions; and support our 
+globally deployed data collection and low-latency platforms in production environment. 
+
+Your Day: 
+You will spend your days doing things like: 
+●  Working through documents and conversations with colleagues to understand product 
+requirements for new features 
+●  Shaping those requirements into design documents and software implementation 
+●  Testing and debugging both your own software and some written by others 
+●  Analyzing and refactoring existing software to enhance its reliability, performance, 
+supportability, and operability 
+
+●  Work closely with cross-functional teams to understand product and technical roadmaps, identifying potential impacts on system operability and proposing proactive solutions for Cloud environments
+●  Lead initiatives to enhance and optimize existing cloud infrastructure, drive improvements in scalability, efficiency, and resilience, and oversee large-scale projects related to cloud platforms, automation, and performance optimization. 
+
+●  Foster cross-functional collaboration between development, infrastructure, and operations teams to improve the overall performance and reliability of services on cloud
+
+You Must Have: 
+●  A solid Computer Science foundation in data structures and algorithms, object 
+oriented programming, and modern software engineering practices from your 
+achievement of obtaining a degree in CS or a similar engineering pursuit. 
+●  The ability to use an object oriented programming language like Java or C++ or scripting languages like Python or Perl, and Unix or Linux systems. 
+●  Excellent design, coding, debugging and testing skills 
+●  Facility with data concepts such as joins, aggregation, projection, and explosion 
+●  The ability to work with large-scale distributed systems 
+●  Solid written and verbal communication skills 
+●  Excellent problem solving and organizational skills 
+●  Great team-working capabilities in an agile development environment  
+
+●  Willingness to engage productively with others in the industry
+
+●  The passion to build great products, work with great people and change the world 
+
+Preferred Qualifications: 
+
+● Experience in designing, managing large scale infrastructure in either AWS EKS, AWS Open Search, or GCP GKE, GCP Observability/Monitoring and with multi zone, multi region deployments
+
+● Experience working with IaC (eg. Terraform, Ansible)
+
+● Familiarity & working experience with Kubernetes and container-based orchestration
+
+The material job duties and responsibilities of this role include those listed above as well as adhering to Yahoo policies; exercising sound judgment; working effectively, safely and inclusively with others; exhibiting trustworthiness and meeting expectations; and safeguarding business operations and brand integrity.
+
+At Yahoo, we offer flexible hybrid work options that our employees love! While most roles don’t require regular office attendance, you may occasionally be asked to attend in-person events or team sessions. You’ll always get notice to make arrangements. Your recruiter will let you know if a specific job requires regular attendance at a Yahoo office or facility. If you have any questions about how this applies to the role, just ask the recruiter!
+
+Yahoo is proud to be an equal opportunity workplace. All qualified applicants will receive consideration for employment without regard to, and will not be discriminated against based on age, race, gender, color, religion, national origin, sexual orientation, gender identity, veteran status, disability or any other protected category. Yahoo will consider for employment qualified applicants with criminal histories in a manner consistent with applicable law. Yahoo is dedicated to providing an accessible environment for all candidates during the application process and for employees during their employment. If you need accessibility assistance and/or a reasonable accommodation due to a disability, please submit a request via the Accommodation Request Form (www.yahooinc.com/careers/contact-us.html) or call +1.866.772.3182. Requests and calls received for non-disability related issues, such as following up on an application, will not receive a response.
+
+We believe that a diverse and inclusive workplace strengthens Yahoo and deepens our relationships. When you support everyone to be their best selves, they spark discovery, innovation and creativity. Among other efforts, our 11 employee resource groups (ERGs) enhance a culture of belonging with programs, events and fellowship that help educate, support and create a workplace where all feel welcome. 
+
+The compensation for this position ranges from $76,500.00 - $159,375.00/yr and will vary depending on factors such as your location, skills and experience.The compensation package may also include incentive compensation opportunities in the form of discretionary annual bonus or commissions. Our comprehensive benefits include healthcare, a great 401k, backup childcare, education stipends and much (much) more.

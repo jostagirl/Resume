@@ -4,3 +4,5 @@
 |-------------|------------|---------|-----------------------------|----------------|
 | 2025-10-07  | Microsoft (SAMPLE) | 12345   | Resume_Microsoft_12345.pdf | Submitted ✅   |
 | 2025-10-08  | Facebook (SAMPLE)  | 34567   | Resume_Facebook_34567.pdf  | In progress ⏳ |
+| | Yahoo  |    |   | No App |
+| | Costco  |    |   | No App |
