@@ -1,0 +1,54 @@
+Technical Support Engineer, Grocery Robotics & Automation
+Job ID: 3083159 | Amazon.com Services LLC
+Description
+Application deadline: Dec 1, 2025
+
+Amazon is searching for an innovative and solution oriented Technical Support Engineer to be part of our global initiative of developing and delivering the next generation of world-class automation systems for grocery applications. The Technical Support Engineer will be part of a new product/technology support team responsible for maintaining and improving our fleet of automation systems. The majority of the responsibilities will be driving solutions to critical events in our automation systems to return peak performance focused on delivering for the customer.
+
+In this role, you will provide design feedback, support performance testing activities, create standards and lead technical troubleshooting during downtime events for our newest robotics and automation solutions that are deployed in the field. The individual will be responsible for monitoring and resolving tickets escalated from operations support teams and software teams, create and maintain self-service troubleshooting tools, create and maintain Voice of the Customer (VOC) feedback loops, manage system-driven high severity downtime events, monitor and report on fleet level availability, manage network availability and quality escalations, manage stakeholder and vendor relationship to drive product support, maintain a repository of maintenance and operator reference, SOP’s documentation and keep track of the site spare parts consumption and end of life cycles. You will work in close collaboration with our Operations teams, Hardware and Software Engineering teams, Equipment Vendors, Software Developers and Procurement teams to deliver continuous improvement and tech troubleshooting aligned with business needs.
+
+Successful candidates will have strong experience in automation technology troubleshooting/development, understand and contribute to new tech reliability metrics as well as testing within the large robotics systems discipline. (for example: industrial robotic cells, automated storage and retrieval systems, auto packing/bagging machines, gantry style systems and robotic picking applications).
+
+Key job responsibilities
+- Establish and maintain safe working environments following all state and Amazon specific standards and requirements.
+- Perform assessments for new automation technology.
+- Deep dive technical solutions that encompass advanced technology applications, robotic and automation integration, vendor commissioning content and expectations.
+- Conduct post launch reviews and support the execution efforts between internal teams and outside vendors.
+- Troubleshoot complex technical problems.
+- Provide detailed root cause analysis following correction to the issue.
+- Monitor and resolve tickets escalated from operations and maintenance teams.
+- Manage vendor relationship to drive product support, development and enhancement to increase reliability.
+- Develop pragmatic solutions, building and/or designing flexible systems without over-engineering.
+- Debug and resolve problems at their root, deep diving the details to understand the broader context.
+- Understand fundamental electrical mechanical constraints.
+- Consistently follow engineering best practices and where possible drive their adoption.
+- Conduct multiple weekly standing meetings with internal teams and vendors to plan and track deliverables.
+- Deep dive on technical details and lead solutions.
+- Lead critical path schedule items and escalate to leadership on potential risks.
+- Work in close collaboration with operations, design teams, software teams and equipment vendors, working across multiple time zones.
+- Create troubleshooting runbooks to aid onsite support teams.
+- Required ability to work autonomously when identifying complex problems and assigning the correct priority when vendor information is insufficient.
+- Thorough understanding and use of principals, theories and concepts in hardware engineering Software design and ability to apply them to product design.
+- Strong organizational skills and the ability to work both autonomously and well with other supporting teams.
+- Ability to effectively communicate concepts and write technical documents.
+- Desire and energy to work in a fast-paced agile environment.
+- Flexibility to travel up to 80%.
+
+About the team
+The Grocery Automation and Robotics Systems Team innovates, designs, develops, and integrate automation solutions to reduce cost and time to serve, while improving customer and employee experience for our Grocery operations. Our road map focuses on systematically improving every aspect of the Amazon’s Grocery operation from: associate experience, safety, costs, storage, throughput capacity, speed, flexibility, scalability, sustainability, operational performance and reliability. Our team members possess deep design experience and innovation skill-sets in these technical areas. We work closely with both internal and external partner teams in all geographies to align priorities, eliminate duplication or waste.
+
+Basic Qualifications
+- 4+ years of software development, or 4+ years of technical support experience
+- Experience troubleshooting and debugging technical systems
+- Experience troubleshooting and documenting findings
+- Experience dealing effectively with customers during problem resolution and operating efficiently under pressure
+- Experience working with equipment suppliers.
+- Experience with full lifecycle.
+- Experience evaluating design, performance and logistical tradeoffs for automated systems.
+- Experience managing ticketing and data analysis.
+
+Preferred Qualifications
+- Knowledge of distributed applications/enterprise applications
+- Experience analyzing and troubleshooting RESTful web API calls
+- Experience troubleshooting, developing and testing of highly automated systems and/or robotics like automated storage and retrieval systems (ASRS)
+- Technical leadership experience in development, testing and implementation of large scale, complex technology projects.

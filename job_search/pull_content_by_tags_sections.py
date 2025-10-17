@@ -7,8 +7,8 @@ import os
 # ======= OPTION 1: Define file paths here (no prompts) =======
 REPO_ROOT = "C:/Users/Anna/Documents/job-search-repo"
 MASTER_RESUME = os.path.join(REPO_ROOT, "resumes", "Master_Resume.md")
-JOB_DESCRIPTION = os.path.join(REPO_ROOT, "job_descriptions", "current_job_description.txt")
-OUTPUT_FILE = os.path.join(REPO_ROOT, "resumes", "test_tailored_resume.md")
+JOB_DESCRIPTION = os.path.join(REPO_ROOT, "job_descriptions", "3083159_Amz_TS_Eng.txt")
+OUTPUT_FILE = os.path.join(REPO_ROOT, "resumes", "Amazon_3083159.md")
 # ============================================================
 
 def extract_content_by_sections(master_resume_file, tags_to_include):
