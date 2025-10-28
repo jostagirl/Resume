@@ -2,6 +2,12 @@
 
 This repository is a personal hub for managing all my professional career materials, including resumes, cover letters, and job search resources. All documents are maintained in **Markdown (`.md`)** as the source of truth, with exports to PDF or Word (`.docx`) for applications. Git is used for version control to track edits, maintain history, and back up work.
 
+NOTE: running "grip" from windows cmd will render md into a browser:
+<pre>
+grip your_file.md
+Copy the URL that generates, it is a localhost location that serves the rendering in your browser.
+</pre>
+
 ---
 
 ## Repository Structure
