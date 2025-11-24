@@ -1,6 +1,6 @@
 # **ANNA BELLIZZI**
 ### **Senior Systems Integrator • Technical Program Contributor • Systems & Data Workflow Specialist**
-📍 NEvada City, CA (Hybrid/Remote)  
+📍 Nevada City, CA (Hybrid/Remote)  
 📧 **Anna.L.Bellizzi@gmail.com**  
 📱 **415-203-7508**  
 🔗 **LinkedIn:** www.linkedin.com/in/anna-bellizzi  
