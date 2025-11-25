@@ -83,10 +83,10 @@ Actively leveraging AI-assisted tools to enhance documentation, diagnostics, and
 ---
 
 # **EDUCATION**
-- **B.S., Computer Science** — California State University, Monterey Bay  
-- **B.A., Journalism** — Hawaii Pacific University  
+- **B.S., Computer Science** — California State University, Monterey Bay   
 - **Mechatronics Certificate** — Sierra College  
-- **Electro-Mechanical Skills Certificate** — Sierra College  
+- **Electro-Mechanical Skills Certificate** — Sierra College
+- **B.A., Journalism** — Hawaii Pacific University 
 
 ---
 
